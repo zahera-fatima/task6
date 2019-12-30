@@ -1,0 +1,4 @@
+zahera,500000
+faiza,400000
+aamna,50000
+tahia,100000
